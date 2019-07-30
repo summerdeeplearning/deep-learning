@@ -1,6 +1,6 @@
 # SPADE Normalization for Face
 
-## How to generate segmentation
+## How to generate segmentation[1]
 
 First,
 `
@@ -29,3 +29,5 @@ cd SPADE
 python test.py --name [model_name] --dataset_mode custom --image_dir [path_to_ori_img] --label_dir [path_to_seg_img] --dataroot SPADE --no_instance --label_nc 19
 `
 Then the generated file will be located at `SPADE/results/[model_name]/test_lastest/images/synthesized_img`
+
+[1]https://github.com/switchablenorms/CelebAMask-HQ
