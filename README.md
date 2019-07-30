@@ -30,6 +30,9 @@ python test.py --name [model_name] --dataset_mode custom --image_dir [path_to_or
 `
 Then the generated file will be located at `SPADE/results/[model_name]/test_lastest/images/synthesized_img`
 
+## Link to the Dataset
+[]https://drive.google.com/file/d/1c8S9l5CctAj4vekpxyvD_XsnZ71FRia6/view?usp=sharing
+
 [1]https://github.com/switchablenorms/CelebAMask-HQ
 [2]https://github.com/NVlabs/SPADE
 [3]https://github.com/nightrome/cocostuff
