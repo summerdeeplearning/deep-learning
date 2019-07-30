@@ -35,5 +35,7 @@ https://drive.google.com/file/d/1c8S9l5CctAj4vekpxyvD_XsnZ71FRia6/view?usp=shari
 
 ## References
 [1]https://github.com/switchablenorms/CelebAMask-HQ
+
 [2]https://github.com/NVlabs/SPADE
+
 [3]https://github.com/nightrome/cocostuff
