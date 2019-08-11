@@ -1,8 +1,13 @@
 # SPADE Normalization for Face
+
+## Samples of generated pictures
 ![5](https://user-images.githubusercontent.com/53350479/62840920-5e3da200-bc6f-11e9-9388-c5e0c710da28.jpg)
 ![6](https://user-images.githubusercontent.com/53350479/62840921-5e3da200-bc6f-11e9-9cf4-f79dd6b517b9.jpg)
 ![7](https://user-images.githubusercontent.com/53350479/62840922-5e3da200-bc6f-11e9-9b5c-9851e45470a7.jpg)
 ![4](https://user-images.githubusercontent.com/53350479/62840923-5e3da200-bc6f-11e9-851e-48924ef6c3e4.jpg)
+
+## Data Preprocessing
+
 ## How to generate segmentation [1]
 
 First,
