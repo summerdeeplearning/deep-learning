@@ -13,17 +13,17 @@ Here are some samples of our original images, the corresponding segmented images
 
 
 # Synthesize Face Video Vsing SPADE Normalization
-The original synthesized video is quite discontinuous and flickers al the time 
+The original synthesized video is quite discontinuous and flickers al the time.
+![v12](https://user-images.githubusercontent.com/53350479/63070182-30af5d80-bee8-11e9-9870-ebc1ec2c3d1e.gif)
 
 We use the following methods to achieve optimal coherency and stability of video
-
 ## Data Preprocessing
-We remove the noise in our segmented images
+We remove the noise in our segmented images.
 ## Style Transfer in Videos
-We use temporal consistency loss to optimize our result
+We use temporal consistency loss to optimize our result.
 
 ## Result
-After 
+After cleaning the noise and implement temporal consistency loss, we have several stable and continuous videos with differnet styles 
 ![v13](https://user-images.githubusercontent.com/53350479/63070183-30af5d80-bee8-11e9-8003-585c49cf31b0.gif)
 
 # How to generate segmentation [1]
