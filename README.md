@@ -49,7 +49,7 @@ python test.py --name [model_name] --dataset_mode custom --image_dir [path_to_or
 `
 Then the generated file will be located at `SPADE/results/[model_name]/test_lastest/images/synthesized_img`
 
-## How to synthesize videos of different style with temporal consistency
+## How to synthesize videos of different style with temporal consistency [4]
 `
 python transform_video.py --in-path path/to/input/vid.mp4 \
   --checkpoint path/to/style/model.ckpt \
