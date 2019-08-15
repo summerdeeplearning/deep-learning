@@ -13,8 +13,8 @@ Here are some samples of our original images, the corresponding segmented images
 
 
 # Synthesize Face Video Vsing SPADE Normalization
-![v1](https://user-images.githubusercontent.com/53350479/63070079-ab2bad80-bee7-11e9-8ecc-c3ee33929d31.gif)
-## Data Preprocessing
+![v12](https://user-images.githubusercontent.com/53350479/63070182-30af5d80-bee8-11e9-9870-ebc1ec2c3d1e.gif)
+![v13](https://user-images.githubusercontent.com/53350479/63070183-30af5d80-bee8-11e9-8003-585c49cf31b0.gif)## Data Preprocessing
 
 ## How to generate segmentation [1]
 
