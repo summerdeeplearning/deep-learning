@@ -1,16 +1,18 @@
 # General Purpose of this Project
- In this project, we will generate face videos of different styles from our original video using pix2pix model with SPADE normalization layer. 
+In this project, we will generate face videos of different styles from our original video using pix2pix model with SPADE normalization layer. 
 
 # SPADE Normalization for Faces
-We firstly generate images using pix2pix model with SPADE normalization layer. Before we use our model to generate images, we firstly need to generate segmented images.
+We firstly generate images using pix2pix model with SPADE normalization layer. Notice before we use our model to generate images, we firstly need to generate segmented images.
 
 Here are some samples of our original images, the corresponding segmented images, and the synthesized images. 
 
-![4](https://user-images.githubusercontent.com/53350479/63066539-985dac80-bed8-11e9-85b1-3841cb1a2a14.jpg)
-![3 1](https://user-images.githubusercontent.com/53350479/63066540-98f64300-bed8-11e9-93a0-09beeae44d2a.jpg)
-![3](https://user-images.githubusercontent.com/53350479/63066541-98f64300-bed8-11e9-98e8-43e836f5f86b.jpg)
+![3](https://user-images.githubusercontent.com/53350479/63068878-d65fce00-bee2-11e9-89d3-97f0540cde8d.jpg)
+![2](https://user-images.githubusercontent.com/53350479/63068879-d65fce00-bee2-11e9-8edc-fe953c19d70e.jpg)
+![1](https://user-images.githubusercontent.com/53350479/63068880-d65fce00-bee2-11e9-9a52-c21de869b4a2.jpg)
+
 
 # Synthesize video using SPADE Normalization
+
 ## Data Preprocessing
 We firstly clean the segmented images
 ## How to generate segmentation [1]
