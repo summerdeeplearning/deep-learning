@@ -19,7 +19,7 @@ We remove the noise in our segmented images and use temporal consistency loss to
 ![v13](https://user-images.githubusercontent.com/53350479/63070183-30af5d80-bee8-11e9-8003-585c49cf31b0.gif)
 ![v15](https://user-images.githubusercontent.com/53350479/63070687-3d34b580-beea-11e9-92f7-d1d84b6fc16c.gif)
 ![v14](https://user-images.githubusercontent.com/53350479/63070688-3d34b580-beea-11e9-9bcb-7dc50fcf5df0.gif)
-# How to generate segmentation [1]
+## How to generate segmentation [1]
 
 First,
 `
@@ -30,7 +30,7 @@ and change the `--test_image_path` options in the `face_parsing/run_test_1.sh` t
 bash run_test_1.sh 1
 `
 and you will get the segmented label at `./test_result`.
-# How to train SPADE model [2]
+## How to train SPADE model [2]
 `
 cd SPADE
 python train.py --name [model_name] --dataset_mode custom --label_dir [path_to_seg_img] ---image_dir [path_to_ori_image] --no_instance --label_nc 19
@@ -40,7 +40,7 @@ Feel free to run `python train.py -h` to twist other options of SPADE, e.g. chan
 
 The result will be saved at `SPADE/results/[model_name]`
 
-# How to run SPADE Face [3]
+## How to run SPADE Face [3]
 Assume the name of the model is `model_name` which is located at `SPADE/results/[model\_name]`. The segmentation of the image is at `[path_to_seg_img]`.
 `
 cd SPADE
