@@ -14,10 +14,7 @@ Here are some samples of our original images, the corresponding segmented images
 
 # Synthesize Face Video Vsing SPADE Normalization
 
-We remove the noise in our segmented images and use temporal consistency loss to optimize our result.
-
-## Result
-After cleaning the noise and implement temporal consistency loss, we have several stable and continuous videos with differnet styles. 
+We remove the noise in our segmented images and use temporal consistency loss to optimize our result. We have different styles of videos as follows:
 
 ![v13](https://user-images.githubusercontent.com/53350479/63070183-30af5d80-bee8-11e9-8003-585c49cf31b0.gif)
 ![v15](https://user-images.githubusercontent.com/53350479/63070687-3d34b580-beea-11e9-92f7-d1d84b6fc16c.gif)
