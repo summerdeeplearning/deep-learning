@@ -49,6 +49,14 @@ python test.py --name [model_name] --dataset_mode custom --image_dir [path_to_or
 `
 Then the generated file will be located at `SPADE/results/[model_name]/test_lastest/images/synthesized_img`
 
+## How to synthesize videos of different style with temporal consistency
+`
+python transform_video.py --in-path path/to/input/vid.mp4 \
+  --checkpoint path/to/style/model.ckpt \
+  --out-path out/video.mp4 \
+  --device /gpu:0 \
+  --batch-size 4
+`
 ## Link to the Dataset
 https://drive.google.com/file/d/1c8S9l5CctAj4vekpxyvD_XsnZ71FRia6/view?usp=sharing
 
@@ -58,3 +66,5 @@ https://drive.google.com/file/d/1c8S9l5CctAj4vekpxyvD_XsnZ71FRia6/view?usp=shari
 [2]https://github.com/NVlabs/SPADE
 
 [3]https://github.com/nightrome/cocostuff
+
+[4] https://github.com/lengstrom/fast-style-transfer
