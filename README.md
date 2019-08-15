@@ -51,9 +51,6 @@ Then the generated file will be located at `SPADE/results/[model_name]/test_last
 ## Link to the Dataset
 https://drive.google.com/file/d/1c8S9l5CctAj4vekpxyvD_XsnZ71FRia6/view?usp=sharing
 
-## Result
-We use ean Intersection- over-Union(mIoU) and overall pixel accuracy as the test criteria. The overall accuracy is 93.82%, and mIoU score is 0.82.   
-
 ## References
 [1]https://github.com/switchablenorms/CelebAMask-HQ
 
