@@ -1,7 +1,8 @@
 # General Purpose of this Project
-In this project, we will generate face videos of different styles from our original video using pix2pix model with SPADE normalization layer. 
 
-# SPADE Normalization for Faces
+In this project, we will generate face videos of different styles from our original video using pix2pix model with SPADE normalization layer. We firstly record a video of length 10 seconds and then cut the video into 152 pictures. We then synthesize images of a different person using these 152 images and our model. We resolve the flicker issue and finally synthesize a video of a different person with different styles. 
+
+# Synthesize Faces Using SPADE Normalization
 We firstly generate images using pix2pix model with SPADE normalization layer. Notice before we use our model to generate images, we firstly need to generate segmented images.
 
 Here are some samples of our original images, the corresponding segmented images, and the synthesized images. 
@@ -11,10 +12,10 @@ Here are some samples of our original images, the corresponding segmented images
 ![1](https://user-images.githubusercontent.com/53350479/63068880-d65fce00-bee2-11e9-9a52-c21de869b4a2.jpg)
 
 
-# Synthesize video using SPADE Normalization
+# Synthesize Face Video Vsing SPADE Normalization
 
 ## Data Preprocessing
-We firstly clean the segmented images
+
 ## How to generate segmentation [1]
 
 First,
