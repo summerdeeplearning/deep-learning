@@ -20,7 +20,6 @@ We remove the noise in our segmented images and use temporal consistency loss to
 After cleaning the noise and implement temporal consistency loss, we have several stable and continuous videos with differnet styles. 
 
 ![v13](https://user-images.githubusercontent.com/53350479/63070183-30af5d80-bee8-11e9-8003-585c49cf31b0.gif)
-![v16](https://user-images.githubusercontent.com/53350479/63070686-3d34b580-beea-11e9-8794-47a9630b148b.gif)
 ![v15](https://user-images.githubusercontent.com/53350479/63070687-3d34b580-beea-11e9-92f7-d1d84b6fc16c.gif)
 ![v14](https://user-images.githubusercontent.com/53350479/63070688-3d34b580-beea-11e9-9bcb-7dc50fcf5df0.gif)
 # How to generate segmentation [1]
