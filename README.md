@@ -11,7 +11,7 @@ Here are some samples of our original images, the corresponding segmented images
 ![2](https://user-images.githubusercontent.com/53350479/63068879-d65fce00-bee2-11e9-8edc-fe953c19d70e.jpg)
 ![1](https://user-images.githubusercontent.com/53350479/63068880-d65fce00-bee2-11e9-9a52-c21de869b4a2.jpg)
 
-<img src="https://github.com/favicon.ico" width="48">
+<img src="https://user-images.githubusercontent.com/53350479/63068878-d65fce00-bee2-11e9-89d3-97f0540cde8d.jpg" width="48">
 
 # Synthesize Face Video Vsing SPADE Normalization
 
