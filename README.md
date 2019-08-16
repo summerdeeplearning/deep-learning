@@ -7,9 +7,9 @@ We firstly generate images using pix2pix model with SPADE normalization layer. N
 
 Here are some samples of our original images, the corresponding segmented images, and the synthesized images.
 
-<img src="https://user-images.githubusercontent.com/53350479/63068878-d65fce00-bee2-11e9-89d3-97f0540cde8d.jpg" width="500">
-<img src="https://user-images.githubusercontent.com/53350479/63068879-d65fce00-bee2-11e9-8edc-fe953c19d70e.jpg" width="500">
-<img src="https://user-images.githubusercontent.com/53350479/63068880-d65fce00-bee2-11e9-9a52-c21de869b4a2.jpg" width="500">
+<img src="https://user-images.githubusercontent.com/53350479/63068878-d65fce00-bee2-11e9-89d3-97f0540cde8d.jpg" width="300">
+<img src="https://user-images.githubusercontent.com/53350479/63068879-d65fce00-bee2-11e9-8edc-fe953c19d70e.jpg" width="300">
+<img src="https://user-images.githubusercontent.com/53350479/63068880-d65fce00-bee2-11e9-9a52-c21de869b4a2.jpg" width="300">
 
 # Synthesize Face Video Vsing SPADE Normalization
 
@@ -18,6 +18,10 @@ We remove the noise in our segmented images and use temporal consistency loss to
 ![v13](https://user-images.githubusercontent.com/53350479/63070183-30af5d80-bee8-11e9-8003-585c49cf31b0.gif)
 ![v15](https://user-images.githubusercontent.com/53350479/63070687-3d34b580-beea-11e9-92f7-d1d84b6fc16c.gif)
 ![v16](https://user-images.githubusercontent.com/53350479/63080189-7ed75780-bf0e-11e9-9139-3d913bd90a8c.gif)
+
+<img src="https://user-images.githubusercontent.com/53350479/63070183-30af5d80-bee8-11e9-8003-585c49cf31b0.gif" width="300">
+<img src="https://user-images.githubusercontent.com/53350479/63070687-3d34b580-beea-11e9-92f7-d1d84b6fc16c.gif" width="300">
+<img src="https://user-images.githubusercontent.com/53350479/63080189-7ed75780-bf0e-11e9-9139-3d913bd90a8c.gif" width="300">
 
 ## How to generate segmentation [1]
 
