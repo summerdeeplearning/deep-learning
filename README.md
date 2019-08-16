@@ -5,14 +5,11 @@ In this project, we will generate face videos of different styles from our origi
 # Synthesize Faces Using SPADE Normalization
 We firstly generate images using pix2pix model with SPADE normalization layer. Notice before we use our model to generate images, we firstly need to generate segmented images.
 
-Here are some samples of our original images, the corresponding segmented images, and the synthesized images. 
+Here are some samples of our original images, the corresponding segmented images, and the synthesized images.
 
-![3](https://user-images.githubusercontent.com/53350479/63068878-d65fce00-bee2-11e9-89d3-97f0540cde8d.jpg)
-![2](https://user-images.githubusercontent.com/53350479/63068879-d65fce00-bee2-11e9-8edc-fe953c19d70e.jpg)
-![1](https://user-images.githubusercontent.com/53350479/63068880-d65fce00-bee2-11e9-9a52-c21de869b4a2.jpg)
-
-<img src="https://user-images.githubusercontent.com/53350479/63068878-d65fce00-bee2-11e9-89d3-97f0540cde8d.jpg" width="48">
-
+<img src="https://user-images.githubusercontent.com/53350479/63068878-d65fce00-bee2-11e9-89d3-97f0540cde8d.jpg" width="200">
+<img src="https://user-images.githubusercontent.com/53350479/63068879-d65fce00-bee2-11e9-8edc-fe953c19d70e.jpg" width="200">
+<img src="https://user-images.githubusercontent.com/53350479/63068880-d65fce00-bee2-11e9-9a52-c21de869b4a2.jpg" width="200">
 # Synthesize Face Video Vsing SPADE Normalization
 
 We remove the noise in our segmented images and use temporal consistency loss to optimize our result. We have different styles of videos as follows:
