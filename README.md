@@ -14,8 +14,7 @@ Here are some samples of our original images, the corresponding segmented images
 # Synthesize Face Video Vsing SPADE Normalization
 
 We remove the noise in our segmented images and use temporal consistency loss to optimize our result. We have different styles of videos as follows:
-
-<img src="https://user-images.githubusercontent.com/53350479/63070183-30af5d80-bee8-11e9-8003-585c49cf31b0.gif" width="200"><img src="https://user-images.githubusercontent.com/53350479/63070687-3d34b580-beea-11e9-92f7-d1d84b6fc16c.gif" width="200"><img src="https://user-images.githubusercontent.com/53350479/63080189-7ed75780-bf0e-11e9-9139-3d913bd90a8c.gif" width="200">
+<img src="https://user-images.githubusercontent.com/53350479/63145105-0d59e080-bfc4-11e9-9d67-8e531b727fcb.gif" width="200"><img src="https://user-images.githubusercontent.com/53350479/63070183-30af5d80-bee8-11e9-8003-585c49cf31b0.gif" width="200"><img src="https://user-images.githubusercontent.com/53350479/63070687-3d34b580-beea-11e9-92f7-d1d84b6fc16c.gif" width="200"><img src="https://user-images.githubusercontent.com/53350479/63080189-7ed75780-bf0e-11e9-9139-3d913bd90a8c.gif" width="200">
 
 ## How to generate segmentation [1]
 
