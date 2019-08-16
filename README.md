@@ -19,9 +19,9 @@ We remove the noise in our segmented images and use temporal consistency loss to
 ![v15](https://user-images.githubusercontent.com/53350479/63070687-3d34b580-beea-11e9-92f7-d1d84b6fc16c.gif)
 ![v16](https://user-images.githubusercontent.com/53350479/63080189-7ed75780-bf0e-11e9-9139-3d913bd90a8c.gif)
 
-<img src="https://user-images.githubusercontent.com/53350479/63070183-30af5d80-bee8-11e9-8003-585c49cf31b0.gif" width="300">
-<img src="https://user-images.githubusercontent.com/53350479/63070687-3d34b580-beea-11e9-92f7-d1d84b6fc16c.gif" width="300">
-<img src="https://user-images.githubusercontent.com/53350479/63080189-7ed75780-bf0e-11e9-9139-3d913bd90a8c.gif" width="300">
+<img src="https://user-images.githubusercontent.com/53350479/63070183-30af5d80-bee8-11e9-8003-585c49cf31b0.gif" width="100">
+<img src="https://user-images.githubusercontent.com/53350479/63070687-3d34b580-beea-11e9-92f7-d1d84b6fc16c.gif" width="100">
+<img src="https://user-images.githubusercontent.com/53350479/63080189-7ed75780-bf0e-11e9-9139-3d913bd90a8c.gif" width="100">
 
 ## How to generate segmentation [1]
 
