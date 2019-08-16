@@ -7,9 +7,9 @@ We firstly generate images using pix2pix model with SPADE normalization layer. N
 
 Here are some samples of our original images, the corresponding segmented images, and the synthesized images. 
 
-![3](https://user-images.githubusercontent.com/53350479/63068878-d65fce00-bee2-11e9-89d3-97f0540cde8d.jpg)
-![2](https://user-images.githubusercontent.com/53350479/63068879-d65fce00-bee2-11e9-8edc-fe953c19d70e.jpg)
-![1](https://user-images.githubusercontent.com/53350479/63068880-d65fce00-bee2-11e9-9a52-c21de869b4a2.jpg)
+![3](https://user-images.githubusercontent.com/53350479/63068878-d65fce00-bee2-11e9-89d3-97f0540cde8d.jpg){:height="50%" width="50%"}
+![2](https://user-images.githubusercontent.com/53350479/63068879-d65fce00-bee2-11e9-8edc-fe953c19d70e.jpg){:height="50%" width="50%"}
+![1](https://user-images.githubusercontent.com/53350479/63068880-d65fce00-bee2-11e9-9a52-c21de869b4a2.jpg){:height="50%" width="50%"}
 
 
 # Synthesize Face Video Vsing SPADE Normalization
