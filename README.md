@@ -54,7 +54,19 @@ python transform_video.py --in-path path/to/input/vid.mp4 \
   --out-path out/video.mp4 \
   --device /gpu:0 \
   --batch-size 4
+ `
+  
+## How to synthesize videos with tmeporal consistency but without different styles.[5]
+First `cd` to the dirctory that `stylize_video.sh` located in. Then run the below. 
 `
+bash stylize_video.sh --imput video directory \
+                      --output image directory \
+                      
+
+
+`
+
+
 ## Link to the Dataset
 https://drive.google.com/file/d/1c8S9l5CctAj4vekpxyvD_XsnZ71FRia6/view?usp=sharing
 
@@ -65,4 +77,6 @@ https://drive.google.com/file/d/1c8S9l5CctAj4vekpxyvD_XsnZ71FRia6/view?usp=shari
 
 [3]https://github.com/nightrome/cocostuff
 
-[4] https://github.com/lengstrom/fast-style-transfer
+[4]https://github.com/lengstrom/fast-style-transfer
+
+[5]https://github.com/cysmith/neural-style-tf
