@@ -59,8 +59,7 @@ python transform_video.py --in-path path/to/input/vid.mp4 \
 ## How to synthesize videos with tmeporal consistency but without different styles.[5]
 First `cd` to the dirctory that `stylize_video.sh` located in. Then run the below. 
 `
-bash stylize_video.sh --imput video directory \
-                      --output image directory \
+bash stylize_video.sh --imput video directory \ --output image directory \
                       
 
 
