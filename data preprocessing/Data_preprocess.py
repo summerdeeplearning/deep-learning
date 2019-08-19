@@ -15,9 +15,6 @@ from resizeimage import resizeimage
 # In[2]:
 
 
-os.chdir('/Users/yunbaizhang/Desktop')
-
-
 # In[ ]:
 
 
